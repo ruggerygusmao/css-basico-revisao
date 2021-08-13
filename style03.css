@@ -1,0 +1,36 @@
+#div1{
+    background-color: red;
+    border: 10px solid darkgreen;
+    height: 150px;
+}
+
+#div2{
+    height: 150px;
+    border: 2px solid black;
+}
+
+#div3{
+    height: 150px;
+    background-color: plum;
+    border: 2px solid black;
+}
+
+.itn1{
+    color: green;
+}
+
+.itn2{
+    color: blue;
+}
+
+.itn3{
+    color: yellow;
+}
+
+#div4{
+    background-color: goldenrod;
+    height: 150px;
+    border: 10px solid brown;
+    display: flex;
+    align-items: center;
+}

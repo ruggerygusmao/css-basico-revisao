@@ -1,0 +1,23 @@
+a{
+    color: blue;
+}
+
+p strong{
+    color: red;
+}
+
+span{
+    font-size: smaller;
+    font-family: monospace;
+}
+
+.destaque{
+    background-color: lightyellow;
+    height: 30px;
+}
+
+#unico{
+    font-weight: bold;
+}
+
+

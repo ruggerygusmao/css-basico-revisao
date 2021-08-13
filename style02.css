@@ -1,0 +1,46 @@
+table, th, tr, td{
+    border: 1px solid black;
+}
+
+#n01{
+    color: brown;
+    background-color: lightsalmon;
+}
+
+#n02{
+    color: coral;
+    background-color: olive;
+}
+
+#n03{
+    color: crimson;
+    background-color: slategrey;
+}
+
+#row01{
+    background-color: darkgray;
+}
+
+#row02{
+    background-color: lightyellow;
+}
+
+#row03{
+    background-color: lightskyblue;
+}
+
+#row04{
+    background-color: lightpink;
+}
+
+h1{
+    text-align: right;
+}
+
+#table{
+   display: flex;
+   justify-content: center;
+}
+.bol{
+    font-weight: bold;
+}
